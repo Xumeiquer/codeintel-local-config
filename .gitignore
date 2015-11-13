@@ -1,0 +1,12 @@
+#half-product
+*.md~
+*.pyc
+
+#sublime-project-file
+*.sublime-project
+*.sublime-workspace
+
+#distribution related file
+/build
+/dist
+*egg-info
